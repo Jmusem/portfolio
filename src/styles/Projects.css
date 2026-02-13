@@ -1,0 +1,38 @@
+.projects-title {
+  color: #00ffff;
+  font-weight: 600;
+  font-size: 1.7rem;
+  letter-spacing: 0.5px;
+}
+
+.project-card {
+  background: linear-gradient(145deg, rgba(20,20,20,0.95), rgba(30,30,30,0.9));
+  border-radius: 16px;
+  border: 1px solid rgba(0, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.project-card:hover {
+  cursor: pointer;
+}
+
+.project-title {
+  color: #00ffff;
+  font-weight: 600;
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+}
+
+.project-description {
+  font-size: 0.95rem;
+  color: #cbd5e1;
+  margin-bottom: 10px;
+}
+
+.project-tech {
+  font-size: 0.9rem;
+  color: #22c55e;
+  font-weight: 500;
+}
