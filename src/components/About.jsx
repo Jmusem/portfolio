@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion"
 import Typewriter from "./Typewriter"
-import "../styles/About.css"
+import "../styles/about.css"
 
 function About() {
   return (
