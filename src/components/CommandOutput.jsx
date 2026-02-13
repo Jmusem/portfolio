@@ -27,9 +27,10 @@ function CommandOutput({ command }) {
           Available commands:
           <ul>
             <li>about</li>
+            <li>skills</li>
             <li>experience</li>
             <li>projects</li>
-            <li>skills</li>
+            <li>contact</li>
             <li>clear</li>
           </ul>
         </div>
